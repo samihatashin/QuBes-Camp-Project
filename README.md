@@ -8,5 +8,5 @@ Team members:
 2. Fabiha Noshin
 3. Anupom Das
 4. Amr Al Dayeh
-5. Alexandra Ladyzhensky
+5. Alexandra Ladyzhensky <br>
 project demo: https://youtu.be/PEOWvnEBUn4
